@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Déménagement",
+        "imageLink": "assets/img/services/demenagement.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 2,
+        "title": "Logistique maritime",
+        "imageLink": "assets/img/services/fretmaritime.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 3,
+        "title": "Logistique de stockage",
+        "imageLink": "assets/img/services/entrepot.jpg",
+        "link": "/gallery-inside"
+    },
+    {
+        "id": 4,
+        "title": "Logistique aérienne",
+        "imageLink": "assets/img/services/fretaerien.jpg",
+        "link": "/gallery-inside"
+    }
+]
